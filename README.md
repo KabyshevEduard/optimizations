@@ -1,2 +1,2 @@
-# optimizations
+# methods of optimizations
 Methods of optimization
